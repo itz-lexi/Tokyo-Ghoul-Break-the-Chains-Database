@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BreakTheChains.WebAPI.props" />
+</Project>

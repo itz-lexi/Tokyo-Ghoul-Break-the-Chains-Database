@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using BreakTheChains.Framework.Models;
-
-
+using BreakTheChains.DataAccess.Entities;
 public class BreakTheChainsDBContext : DbContext
 {
     public BreakTheChainsDBContext(DbContextOptions<BreakTheChainsDBContext> options) : base(options) { }

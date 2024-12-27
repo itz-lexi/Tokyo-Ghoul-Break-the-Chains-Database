@@ -1,6 +1,12 @@
-﻿namespace tokyo_ghoul_db_backend.Models
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BreakTheChains.Framework.Models
 {
-    public class Character
+    public class CharacterModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

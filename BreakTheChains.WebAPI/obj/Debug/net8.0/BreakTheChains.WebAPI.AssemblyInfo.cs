@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakTheChains.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+349e9449fe90920d144b5f8797bf56cc1c09370c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a299e9e4d5c1b9e6b7782bf4f94e0551017128d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakTheChains.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakTheChains.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

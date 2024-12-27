@@ -3,3 +3,18 @@ C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheC
 C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfoInputs.cache
 C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfo.cs
 C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.csproj.CoreCompileInputs.cache
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.csproj.AssemblyReference.cache
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfoInputs.cache
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfo.cs
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.csproj.CoreCompileInputs.cache
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.sourcelink.json
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\bin\Debug\net8.0\BreakTheChains.DataAccess.deps.json
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\bin\Debug\net8.0\BreakTheChains.DataAccess.runtimeconfig.json
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\bin\Debug\net8.0\BreakTheChains.DataAccess.dll
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\bin\Debug\net8.0\BreakTheChains.DataAccess.pdb
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.dll
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\refint\BreakTheChains.DataAccess.dll
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.pdb
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.genruntimeconfig.cache
+D:\Github Repos\Tokyo-Ghoul-Break-the-Chains-Database\BreakTheChains.DataAccess\obj\Debug\net8.0\ref\BreakTheChains.DataAccess.dll
