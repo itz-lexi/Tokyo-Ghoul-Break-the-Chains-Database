@@ -1,0 +1,5 @@
+C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.csproj.AssemblyReference.cache
+C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.AssemblyInfo.cs
+C:\Users\alexj\source\repos\BreakTheChains.DataAccess\obj\Debug\net8.0\BreakTheChains.DataAccess.csproj.CoreCompileInputs.cache
