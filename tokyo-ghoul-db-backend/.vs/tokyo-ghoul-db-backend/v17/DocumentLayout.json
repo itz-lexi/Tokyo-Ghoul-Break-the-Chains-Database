@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{32FA9F9D-E396-4F8B-9519-F0F345028A1B}|BreakTheChains.WebAPI.csproj|c:\\users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\migrations\\20241227021702_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32FA9F9D-E396-4F8B-9519-F0F345028A1B}|BreakTheChains.WebAPI.csproj|solutionrelative:migrations\\20241227021702_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32FA9F9D-E396-4F8B-9519-F0F345028A1B}|BreakTheChains.WebAPI.csproj|c:\\users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32FA9F9D-E396-4F8B-9519-F0F345028A1B}|BreakTheChains.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.WebAPI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,31 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241227021702_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\Migrations\\20241227021702_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241227021702_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\Migrations\\20241227021702_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20241227021702_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:17:02.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:00:27.856Z"
             }
           ]
         },

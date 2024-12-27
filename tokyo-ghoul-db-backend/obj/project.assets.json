@@ -5199,11 +5199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\BreakTheChains.WebAPI.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.WebAPI\\BreakTheChains.WebAPI.csproj",
       "projectName": "BreakTheChains.WebAPI",
-      "projectPath": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\BreakTheChains.WebAPI.csproj",
+      "projectPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.WebAPI\\BreakTheChains.WebAPI.csproj",
       "packagesPath": "C:\\Users\\alexj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\obj\\",
+      "outputPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5220,11 +5220,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alexj\\source\\repos\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj"
+            "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj": {
+              "projectPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj"
             },
-            "C:\\Users\\alexj\\source\\repos\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj": {
-              "projectPath": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj"
+            "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj": {
+              "projectPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj"
             }
           }
         }

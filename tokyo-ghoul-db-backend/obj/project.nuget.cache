@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kCFuFzqn+H5Yh/Xa4/PYPYhI2VIXDW0Ds84WySXbG+Sqe4Lw8JAqRo5eQuSVVpQ56qZU5u3u1ju4s/QW7lLNJg==",
+  "dgSpecHash": "GHRLUoBreJb6clbkUbJobxdLEmvOI8RULQzumcGnizwJ2+ujaX8xSZYs5zC+Z06fHhDsstKJ1EV5mpctM3j5xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexj\\source\\repos\\tokyo-ghoul-db-backend\\BreakTheChains.WebAPI.csproj",
+  "projectFilePath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.WebAPI\\BreakTheChains.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexj\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

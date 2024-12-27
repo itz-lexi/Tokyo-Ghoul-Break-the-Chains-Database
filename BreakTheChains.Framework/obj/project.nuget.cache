@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EXLwkhyFUlgjqO1bFEmvxI+MNaPNah0F7yQ4VFP93rJdTCu4wdNKtZFTQ+ORvGgseJUp179LmlrTax85SLwiQ==",
+  "dgSpecHash": "WZYYIRGWyAe1a2hCl4FD+aEQPLyaxGfAd7G16x2hIZJ0BIe5ZQeM4Gsk2d9SXrknFgcONq3/xY1Z2jeXjpEXpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj",
+  "projectFilePath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.Framework\\BreakTheChains.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexj\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

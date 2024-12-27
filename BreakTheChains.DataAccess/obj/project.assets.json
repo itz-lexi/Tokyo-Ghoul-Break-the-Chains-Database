@@ -5156,11 +5156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj",
       "projectName": "BreakTheChains.DataAccess",
-      "projectPath": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj",
+      "projectPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.DataAccess\\BreakTheChains.DataAccess.csproj",
       "packagesPath": "C:\\Users\\alexj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexj\\source\\repos\\BreakTheChains.DataAccess\\obj\\",
+      "outputPath": "D:\\Github Repos\\Tokyo-Ghoul-Break-the-Chains-Database\\BreakTheChains.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexj\\AppData\\Roaming\\NuGet\\NuGet.Config",
