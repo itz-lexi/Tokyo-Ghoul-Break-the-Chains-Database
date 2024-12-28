@@ -23,5 +23,12 @@ namespace BreakTheChains.WebAPI.Controllers
             List<CharacterModel> characterList = await _characterService.GetCharacters();
             return characterList;
         }
+
+        [HttpGet("{characterId}/GetPassives")]
+        public async Task<List<CharacterModel>> GetPassives(int characterId)
+        {
+            List<CharacterModel> characterList = await _characterService.GetPassives(characterId);
+            return characterList;
+        }
     }
 }
