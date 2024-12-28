@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakTheChains.Framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a299e9e4d5c1b9e6b7782bf4f94e0551017128d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3727fdd6beff3093297c6d4c3f1d113e0b25ce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakTheChains.Framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakTheChains.Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

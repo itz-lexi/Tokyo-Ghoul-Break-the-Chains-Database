@@ -1,12 +1,14 @@
 using BreakTheChains.DataAccess;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.IdentityModel.Tokens;
+using Microsoft.AspNetCore.Mvc;
 using Serilog;
+using BreakTheChains.Framework.Interfaces;
+using BreakTheChains.Framework.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Set up Serilog for logging
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Information()
     .WriteTo.Console()
@@ -15,6 +17,7 @@ Log.Logger = new LoggerConfiguration()
 
 builder.Host.UseSerilog();
 
+// Configure CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
@@ -25,36 +28,14 @@ builder.Services.AddCors(options =>
     });
 });
 
-// Add JWT info into appsettings.json
-
-//var key = Convert.FromBase64String(builder.Configuration["Jwt:Key"]);
-//builder.Services.AddAuthentication(x =>
-//{
-//    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-//    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-//})
-//.AddJwtBearer(x =>
-//{
-//    x.RequireHttpsMetadata = true;
-//    x.SaveToken = true;
-//    x.TokenValidationParameters = new TokenValidationParameters
-//    {
-//        ValidateIssuer = true,
-//        ValidateAudience = true,
-//        ValidateLifetime = true,
-//        ValidateIssuerSigningKey = true,
-//        ValidIssuer = builder.Configuration["Jwt:Issuer"],
-//        ValidAudience = builder.Configuration["Jwt:Audience"],
-//        IssuerSigningKey = new SymmetricSecurityKey(key)
-//    };
-//});
-
+// Configure DbContext with MySQL (using Pomelo Entity Framework)
 builder.Services.AddDbContext<BreakTheChainsDBContext>(options =>
-    options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        sqlOptions => sqlOptions.MigrationsAssembly("tokyo-ghoul-db-backend")
-    ));
+    options.UseMySql(builder.Configuration.GetConnectionString("BTCDB"),
+    ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("BTCDB"))));
 
+builder.Services.AddScoped<ICharacterService, CharacterService>();
+
+// Add controllers, Swagger, etc.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -63,6 +44,7 @@ builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -70,12 +52,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseCors("AllowAll");
-
 app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllers();
 
 try

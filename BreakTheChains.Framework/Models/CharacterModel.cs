@@ -10,8 +10,8 @@ namespace BreakTheChains.Framework.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Rarity { get; set; }
-        public string Role { get; set; }
-        public string Description { get; set; }
+        public string Nickname { get; set; }
+        public int Rarity { get; set; }
+        public int Type { get; set; }
     }
 }

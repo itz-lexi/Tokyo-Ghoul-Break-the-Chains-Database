@@ -2,9 +2,10 @@
 {
     public class Equipment
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Type { get; set; }
-        public string Effect { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public string nickname { get; set; }
+        public int rarity { get; set; }
+        public int type { get; set; }
     }
 }
